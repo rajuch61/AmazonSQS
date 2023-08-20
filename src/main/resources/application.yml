@@ -9,7 +9,7 @@ cloud:
       access-key: <Access-Key>
       secret-key: <Screet-Key>
     end-point:
-      uri: https://sqs.ap-south-1.amazonaws.com/674768297865/SQS-queue
+      uri: <SQS queue uri>
 
 
 server:
