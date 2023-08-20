@@ -1,0 +1,19 @@
+cloud:
+  aws:
+    region:
+      static: ap-south-1
+      auto: false
+    stack:
+      auto: false
+    credentials:
+      access-key: AKIAZ2G2TD6E6DDDCGQN
+      secret-key: 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
+    end-point:
+      uri: https://sqs.ap-south-1.amazonaws.com/674768297865/SQS-queue
+
+
+server:
+  port: 8083
+  
+api:
+  docNofiyUri: http://localhost:8083/test
