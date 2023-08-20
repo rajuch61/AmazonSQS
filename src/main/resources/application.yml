@@ -6,8 +6,8 @@ cloud:
     stack:
       auto: false
     credentials:
-      access-key: AKIAZ2G2TD6E6DDDCGQN
-      secret-key: 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
+      access-key: <Access-Key>
+      secret-key: <Screet-Key>
     end-point:
       uri: https://sqs.ap-south-1.amazonaws.com/674768297865/SQS-queue
 
