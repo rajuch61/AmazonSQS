@@ -28,7 +28,6 @@ public class MessageModel {
 	public String toString() {
 		return "Message [info=" + info + ", statusCode=" + statusCode + "]";
 	}
-	
 //	{
 //		"info": "Test Message",
 //		"statusCode": "Success"
